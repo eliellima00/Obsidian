@@ -10,7 +10,7 @@ modulos: "[]"
 Descreva a regra de negócio aqui.
 
 ## Impacto
-- Afeta: [[Projeto]]
+- Afeta: [[Projeto modelo]]
 
 ## Exemplos
 1. Caso de uso A
