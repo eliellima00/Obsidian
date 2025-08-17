@@ -7,4 +7,9 @@ usado_em:
 # {{title}}
 
 ## Categoria
-Ex: Linguagem, Framework, Banco, Infra
+Ex: Linguagem, Framework, Banco, Infraestrutura
+
+## Usado em
+
+
+## Descrição
