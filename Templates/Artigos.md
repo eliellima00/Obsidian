@@ -11,3 +11,4 @@ tags:
 ## Conteudo
 
 ## Links Relacionados
+- [[Outro Artigo]]
