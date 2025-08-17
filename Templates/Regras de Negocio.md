@@ -1,8 +1,7 @@
 ---
-nome:
-  "{ title }": 
+nome: "{{title}}"
 impacto: 
-pros:
+modulos: "[]"
 ---
 
 # {{title}}
@@ -11,7 +10,7 @@ pros:
 Descreva a regra de negócio aqui.
 
 ## Impacto
-- Afeta: [[Projeto Modelo]], [[Banco de Dados]]
+- Afeta: 
 
 ## Exemplos
 1. Caso de uso A
