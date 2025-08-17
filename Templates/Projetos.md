@@ -1,0 +1,5 @@
+---
+nome: "{{title}}"
+descricao: 
+dependencias: "[]"
+---

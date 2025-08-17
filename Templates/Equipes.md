@@ -9,3 +9,10 @@ membros: "[]"
 [[Colaborador Modelo]]
 
 ## Membros
+- [[Colaborador Modelo]]
+
+## Projetos
+- [[Projetos Modelo]]
+
+## Notas
+
