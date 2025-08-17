@@ -8,4 +8,6 @@ aplicado_em: "[]"
 
 ## Tipo
 
-# 
+## Descrição
+
+## Aplicado em

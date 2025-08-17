@@ -1,0 +1,5 @@
+---
+titulo: "{{title}}"
+palestrante: 
+"data:":
+---
