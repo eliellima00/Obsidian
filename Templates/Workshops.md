@@ -1,5 +1,14 @@
 ---
 titulo: "{{title}}"
 palestrante: 
-"data:":
+data: "{{date}}"
+projetos_relacionados: "[]"
+"tags:": "[workshop]"
 ---
+# {{title}}
+
+## Palestrante
+
+## Resumo
+
+## Projetos Re
