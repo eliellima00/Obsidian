@@ -16,4 +16,5 @@ regras: "[]"
 ## Modulos
 
 ## Status
-- Em andamento ;
+- Em andamento / Concluído / Planejado
+
