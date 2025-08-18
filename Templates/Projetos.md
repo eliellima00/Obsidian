@@ -15,5 +15,5 @@ regras: "[]"
 ## Modulos
 
 
-## Dicionario 
-
+## Glossário 
+Vincular aqui o documento de termos e conceitos usados na aplicação
