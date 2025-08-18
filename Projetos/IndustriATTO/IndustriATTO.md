@@ -1,13 +1,13 @@
 ---
-nome: "IndustriATTO"
-descricao: 
+nome: IndustriATTO
+descricao: Sistema Operacional da Industria
 dependencias: "[]"
-regras: "[]"
+modulos: "[]"
 ---
 # IndustriATTO
 
 ## Descrição
-IndustriATTO é...
+IndustriATTO é o projeto usado na agroindustria para fazer todo o gerenciamento do processo de Tratamento de sementes, adequações de peso, beneficiamento
 
 ## Equipe 
 
