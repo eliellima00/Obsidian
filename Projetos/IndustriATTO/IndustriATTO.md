@@ -1,7 +1,7 @@
 ---
 nome: IndustriATTO
 descricao: Sistema Operacional da Industria
-status: 
+status: Em andamento
 modulos: "[]"
 ---
 # IndustriATTO
@@ -12,11 +12,5 @@ IndustriATTO é o projeto usado na agroindústria para fazer todo o gerenciament
 ## Equipe 
 - [[Desenvolvimento]]
 
-## Dependências
-
-
-## Modulos
-
-## Status
-- Em andamento / Concluído / Planejado
+## Módulos
 

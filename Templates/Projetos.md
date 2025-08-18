@@ -1,7 +1,7 @@
 ---
 nome: "{{title}}"
 descricao: 
-dependencias: "[]"
+status: "[]"
 regras: "[]"
 ---
 # {{title}}
@@ -11,10 +11,7 @@ regras: "[]"
 
 ## Equipe 
 
-## Dependências
 
 ## Modulos
 
-## Status
-- Em andamento / Concluído / Planejado
 
