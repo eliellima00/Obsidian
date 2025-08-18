@@ -15,3 +15,5 @@ regras: "[]"
 ## Modulos
 
 
+## Dicionario 
+
