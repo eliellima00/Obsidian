@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projetos/IndustriATTO/IndustriATTO.md",
+                "file": "Projetos/IndustriATTO/Modulos/Ordens de Serviço/Ordens  de Serviço.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IndustriATTO"
+              "title": "Ordens  de Serviço"
             }
           }
         ]
@@ -179,6 +179,7 @@
   },
   "active": "cc024e8c45dcb248",
   "lastOpenFiles": [
+    "Projetos/IndustriATTO/IndustriATTO.md",
     "Projetos/IndustriATTO/Modulos/Lotes/Lotes.md",
     "Projetos/IndustriATTO/Modulos/Ordens de Serviço/Ordens  de Serviço.md",
     "Projetos/Portal Vendas/Portal Vendas.md",
