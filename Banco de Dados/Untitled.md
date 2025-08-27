@@ -2,7 +2,7 @@
 nome: IndustriATTO
 tipo: SQL
 relacionado: "[]"
-"tags:": "[banco]"
+"tags:": "[[SQL]]"
 ---
 # Untitled
 
