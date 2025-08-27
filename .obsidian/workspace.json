@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Colaboradores/Onboarding Equipe.md",
-                "mode": "source",
+                "file": "Colaboradores/Colaboradores/Eliel Matos.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Onboarding Equipe"
+              "title": "Eliel Matos"
             }
           }
         ]
@@ -180,10 +180,10 @@
   },
   "active": "ef24bd5ade549e22",
   "lastOpenFiles": [
-    "Colaboradores/Colaboradores/Eliel Matos.md",
-    "Colaboradores/Colaboradores/Aldair.md",
     "Colaboradores/Onboarding Equipe.md",
     "Colaboradores/Imagens/eliel.png",
+    "Colaboradores/Colaboradores/Eliel Matos.md",
+    "Colaboradores/Colaboradores/Aldair.md",
     "Colaboradores/Equipes/Desenvolvimento.md",
     "Colaboradores/Cargos/Cargos.md",
     "Colaboradores/Cargos/Untitled",
