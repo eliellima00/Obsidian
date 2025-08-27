@@ -5,7 +5,7 @@ const pages = dv.pages('"Colaboradores/Colaboradores"')
   .where(p => p.file.folder === "Colaboradores/Colaboradores");
 
 dv.container.innerHTML = `
-  <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 16px;">
+  <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 16px; hover: ">
     ${pages.map(p => {
       const img = p.imagem ? p.imagem : "https://via.placeholder.com/80";
       return `
