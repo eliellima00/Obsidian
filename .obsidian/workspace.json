@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6f5a345a36b281fd",
+        "id": "a1d4e5fc1398b5e4",
         "type": "tabs",
         "children": [
           {
-            "id": "a6e8c6268ec46251",
+            "id": "15078751abccae99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Colaboradores.md",
+                "file": "Projetos/IndustriATTO/IndustriATTO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Colaboradores"
+              "title": "IndustriATTO"
             }
           }
         ]
@@ -178,8 +178,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a6e8c6268ec46251",
+  "active": "15078751abccae99",
   "lastOpenFiles": [
+    "Templates/Colaboradores.md",
     "Tecnologias/React.md",
     "Tecnologias",
     "Reuniões/Embalagens Que não permitem Reensacar.md",
