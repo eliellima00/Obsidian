@@ -1,6 +1,6 @@
 ---
 nome: IndustriATTO
-tipo:
+tipo: SQL
 relacionado:
 "tags:": banco, industria, industriatto
 ---
@@ -15,4 +15,8 @@ relacionado:
 ## Relacionado
 - [[Projeto modelo]]
 
-table
+```dataview
+table tipo, relacionado
+from "Branco de Dados"
+where tipo = "SQL"
+```
