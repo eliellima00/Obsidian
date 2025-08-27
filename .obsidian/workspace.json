@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projetos/IndustriATTO/IndustriATTO.md",
+                "file": "Banco de Dados/DB - IndustriATTO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IndustriATTO"
+              "title": "DB - IndustriATTO"
             }
           }
         ]
@@ -180,6 +180,9 @@
   },
   "active": "15078751abccae99",
   "lastOpenFiles": [
+    "Colaboradores/Colaboradores/Eliel Matos.md",
+    "Banco de Dados/DB - IndustriATTO.md",
+    "Projetos/IndustriATTO/IndustriATTO.md",
     "Templates/Colaboradores.md",
     "Tecnologias/React.md",
     "Tecnologias",
@@ -190,15 +193,12 @@
     "Projetos/Portal Vendas/Modulos",
     "Padrões de Projeto/Untitled.md",
     "Padrões de Projeto",
-    "Banco de Dados/DB - IndustriATTO.md",
     "Banco de Dados",
     "Templates/Equipes.md",
     "Templates/Padrão de Projeto.md",
     "Templates/Projetos.md",
     "Templates/Regras de Negocio.md",
     "Projetos/Portal Vendas/Portal Vendas.md",
-    "Colaboradores/Colaboradores/Eliel Matos.md",
-    "Projetos/IndustriATTO/IndustriATTO.md",
     "Projetos/IndustriATTO/Modulos/Lotes/Lotes.md",
     "Projetos/Projetos.md",
     "Untitled.canvas",
