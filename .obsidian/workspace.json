@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ed53ca573d887823",
+        "id": "83ffeaa5d5c5ae56",
         "type": "tabs",
         "children": [
           {
-            "id": "2b1e65cff424b6d8",
+            "id": "4e38e57422a848b6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Colaboradores/Colaboradores/Eliel Matos.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Eliel Matos"
+              "title": "New tab"
             }
           }
         ]
@@ -178,11 +174,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2b1e65cff424b6d8",
+  "active": "4e38e57422a848b6",
   "lastOpenFiles": [
+    "Colaboradores/Imagens/eliel.png",
+    "Colaboradores/Equipes/Desenvolvimento.md",
+    "Colaboradores/Colaboradores/Eliel Matos.md",
     "Colaboradores/Colaboradores/Aldair.md",
     "Colaboradores/Cargos/Cargos.md",
-    "Colaboradores/Colaboradores/Eliel Matos.md",
     "Colaboradores/Cargos/Untitled",
     "Colaboradores/Cargos/Desenvolvedor Web & Mobile.md",
     "Colaboradores/Cargos/Arquiteto de Sofware.md",
@@ -190,11 +188,9 @@
     "Colaboradores/Cargos/Gerente de Desenvolvimento de Sofware.md",
     "Colaboradores/Cargos/Coordenador de Desenvolvimento.md",
     "Colaboradores/Cargos",
-    "Colaboradores/Equipes/Desenvolvimento.md",
     "Nome da Equipe.md",
     "Pasted image 20250827165044.png",
     "Pasted image 20250827165038.png",
-    "Colaboradores/Imagens/eliel.png",
     "Colaborador Modelo.md",
     "Projetos/IndustriATTO/IndustriATTO.md",
     "Banco de Dados/DB - IndustriATTO.md",
