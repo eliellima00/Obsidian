@@ -1,13 +1,13 @@
 ---
 nome: IndustriATTO
-tipo: SQL
-relacionado: "[]"
-"tags:": SQL
+tipo:
+relacionado:
+"tags:":
 ---
-# Untitled
+# DB - Industriattto
 
 ## Tipo
-(SQL, NoSQL, etc..)
+[[SQL]]
 
 ## Descrição
 
