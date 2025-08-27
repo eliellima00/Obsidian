@@ -1,7 +1,7 @@
 ---
 nome: Eliel Matos
 equipe: "[[Desenvolvimento]]"
-projetos: "[]"
+projetos:
 tecnologias: "[]"
 imagem: Imagens/eliel.png
 ---
