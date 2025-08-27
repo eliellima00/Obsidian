@@ -3,7 +3,7 @@ nome: Eliel Matos
 equipe: "[[Desenvolvimento]]"
 projetos: "[]"
 tecnologias: "[]"
-foto:
+imagem: Imagens/eliel.png
 cargo:
 ---
 # Eliel Matos
