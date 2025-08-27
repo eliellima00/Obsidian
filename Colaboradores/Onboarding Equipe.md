@@ -1,5 +1,4 @@
 
-
 ```dataviewjs
 const pages = dv.pages('"Colaboradores/Colaboradores"')
   .where(p => p.file.folder === "Colaboradores/Colaboradores");
