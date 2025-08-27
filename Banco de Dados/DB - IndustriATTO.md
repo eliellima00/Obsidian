@@ -2,7 +2,7 @@
 nome: IndustriATTO
 tipo:
 relacionado:
-"tags:":
+"tags:": banco, industria, industriatto
 ---
 # DB - Industriattto
 
@@ -14,3 +14,5 @@ relacionado:
 
 ## Relacionado
 - [[Projeto modelo]]
+
+table
