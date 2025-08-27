@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "83ffeaa5d5c5ae56",
+        "id": "1160d9c893b8ff9b",
         "type": "tabs",
         "children": [
           {
-            "id": "4e38e57422a848b6",
+            "id": "be0ce7f6a88aa1c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -178,10 +178,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4e38e57422a848b6",
+  "active": "be0ce7f6a88aa1c7",
   "lastOpenFiles": [
-    "Colaboradores/Onboarding Equipe.md",
     "Colaboradores/Imagens/eliel.png",
+    "Colaboradores/Onboarding Equipe.md",
     "Colaboradores/Equipes/Desenvolvimento.md",
     "Colaboradores/Colaboradores/Eliel Matos.md",
     "Colaboradores/Colaboradores/Aldair.md",
@@ -216,7 +216,6 @@
     "Templates/Regras de Negocio.md",
     "Projetos/Portal Vendas/Portal Vendas.md",
     "Projetos/IndustriATTO/Modulos/Lotes/Lotes.md",
-    "Projetos/Projetos.md",
     "Untitled.canvas",
     "Workshops",
     "Colaboradores/Equipes"
