@@ -7,7 +7,7 @@ foto:
 ---
 # Eliel Matos
 
-![[Eliel Matos.png|100]]
+
 
 ## Equipe
 [[Nome da Equipe]]
