@@ -1,7 +1,7 @@
 ---
 name: IndustriATTO
 tipo: SQL
-relacionado: Projeto modelo
+relacionado:
 tags:
   - teste
 ---

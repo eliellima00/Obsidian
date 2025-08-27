@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Banco de Dados/DB - IndustriATTO.md",
+                "file": "Colaboradores/Equipes/Desenvolvimento.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DB - IndustriATTO"
+              "title": "Desenvolvimento"
             }
           }
         ]
@@ -180,9 +180,9 @@
   },
   "active": "15078751abccae99",
   "lastOpenFiles": [
-    "Colaboradores/Colaboradores/Eliel Matos.md",
-    "Banco de Dados/DB - IndustriATTO.md",
     "Projetos/IndustriATTO/IndustriATTO.md",
+    "Banco de Dados/DB - IndustriATTO.md",
+    "Colaboradores/Colaboradores/Eliel Matos.md",
     "Templates/Colaboradores.md",
     "Tecnologias/React.md",
     "Tecnologias",
