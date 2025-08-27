@@ -1,10 +1,11 @@
 ---
-nome: IndustriATTO
+name: IndustriATTO
 tipo: SQL
-relacionado:
-"tags:": banco, industria, industriatto
+relacionado: Projeto modelo
+tags:
 ---
 # DB - Industriattto
+
 
 ## Tipo
 [[SQL]]
