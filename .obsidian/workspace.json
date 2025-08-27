@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Colaboradores/Colaboradores/Eliel Matos.md",
+                "file": "Colaboradores/Colaboradores/Aldair.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Eliel Matos"
+              "title": "Aldair"
             }
           }
         ]
@@ -178,13 +178,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "93d1fbd1b925677f",
+  "active": "ef4d46c290e93e75",
   "lastOpenFiles": [
-    "Colaboradores/Imagens/eliel.png",
+    "Colaboradores/Cargos",
     "Colaboradores/Colaboradores/Eliel Matos.md",
+    "Colaboradores/Colaboradores/Aldair.md",
+    "Colaboradores/Equipes/Desenvolvimento.md",
+    "Nome da Equipe.md",
     "Pasted image 20250827165044.png",
     "Pasted image 20250827165038.png",
-    "Colaboradores/Equipes/Desenvolvimento.md",
+    "Colaboradores/Imagens/eliel.png",
     "Colaborador Modelo.md",
     "Projetos/IndustriATTO/IndustriATTO.md",
     "Banco de Dados/DB - IndustriATTO.md",
