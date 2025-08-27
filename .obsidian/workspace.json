@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Colaboradores/Cargos/Arquiteto de Sofware.md",
+                "file": "Colaboradores/Cargos/Cargos.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arquiteto de Sofware"
+              "title": "Cargos"
             }
           }
         ]
@@ -180,10 +180,10 @@
   },
   "active": "2b1e65cff424b6d8",
   "lastOpenFiles": [
-    "Colaboradores/Cargos/Cargos.md",
-    "Colaboradores/Cargos/Analista de Qualidade de Sofware.md",
-    "Colaboradores/Cargos/Arquiteto de Sofware.md",
     "Colaboradores/Cargos/Desenvolvedor Web & Mobile.md",
+    "Colaboradores/Cargos/Cargos.md",
+    "Colaboradores/Cargos/Arquiteto de Sofware.md",
+    "Colaboradores/Cargos/Analista de Qualidade de Sofware.md",
     "Colaboradores/Cargos/Gerente de Desenvolvimento de Sofware.md",
     "Colaboradores/Cargos/Coordenador de Desenvolvimento.md",
     "Colaboradores/Colaboradores/Aldair.md",
