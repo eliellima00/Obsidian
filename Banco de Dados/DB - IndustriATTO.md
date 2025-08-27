@@ -18,6 +18,6 @@ tags:
 
 ```dataview
 table tipo, relacionado
-from "Branco de Dados"
+from "Banco de Dados"
 where tipo = "SQL"
 ```
