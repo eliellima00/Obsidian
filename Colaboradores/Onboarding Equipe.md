@@ -1,6 +1,8 @@
 
 ```dataviewjs
 const pages = dv.pages('"Colaboradores/Colaboradores"')
+
+console.log(dv)
   .where(p => p.file.folder === "Colaboradores/Colaboradores");
 dv.container.innerHTML = `
   <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 20px;">
