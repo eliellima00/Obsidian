@@ -2,7 +2,6 @@
 ```dataviewjs
 const pages = dv.pages('"Colaboradores/Colaboradores"')
   .where(p => p.file.folder === "Colaboradores/Colaboradores");
-
 dv.container.innerHTML = `
   <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 20px;">
     ${pages.map(p => {
