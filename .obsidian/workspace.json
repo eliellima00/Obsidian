@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "49bec1ef3e3b4d37",
+        "id": "f9def5def9e04967",
         "type": "tabs",
         "children": [
           {
-            "id": "5c343b744ee30342",
+            "id": "a716e64e8cddc798",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artigos/Como configurar o Obsidian com Github.md",
+                "file": "Rascunhos/Processo de Documentação do Embarque de Sementes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Como configurar o Obsidian com Github"
+              "title": "Processo de Documentação do Embarque de Sementes"
             }
           }
         ]
@@ -178,15 +178,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5c343b744ee30342",
+  "active": "a716e64e8cddc798",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Untitled 1.md",
+    "Rascunhos/Processo de Documentação do Embarque de Sementes.md",
+    "Rascunhos",
+    "Projetos/IndustriATTO/Modulos/Ordens de Serviço/Ordens  de Serviço.md",
+    "Projetos/IndustriATTO/Modulos/Lotes/Lotes.md",
+    "Projetos/IndustriATTO/IndustriATTO.md",
     "Bases/Projetos.base",
     "Bases/Colaboradores.base",
+    "Artigos/Como configurar o Obsidian com Github.md",
+    "Untitled.md",
+    "Padrões de Projeto/Untitled.md",
+    "Untitled 1.md",
     "Projetos/Projetos.md",
     "Projetos/Portal Vendas/Portal Vendas.md",
-    "Projetos/IndustriATTO/IndustriATTO.md",
     "Projetos/Embarque/Painel de Embarque.md",
     "Colaboradores/Cargos.md",
     "Colaboradores/Onboarding Equipe.md",
@@ -208,17 +214,11 @@
     "Templates/Regras de Negocio.md",
     "Templates/Padrão de Projeto.md",
     "Templates/Colaboradores.md",
-    "Templates/Banco de Dados.md",
-    "Templates/Artigos.md",
-    "Tecnologias/NestJS.md",
-    "Tecnologias/React.md",
-    "Colaboradores/Equipes/Desenvolvimento.md",
     "Colaboradores/Cargos/Untitled",
     "Colaboradores/Cargos",
     "Pasted image 20250827165044.png",
     "Pasted image 20250827165038.png",
     "Tecnologias",
-    "Reuniões",
     "Untitled.canvas"
   ]
 }
