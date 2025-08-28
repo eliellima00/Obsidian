@@ -4,17 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "c07f405c9033b406",
+        "id": "3ae1260962feb970",
         "type": "tabs",
         "children": [
           {
-            "id": "6632dd7b6422698a",
+            "id": "9dfb378383eba52b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "bases",
+              "state": {
+                "file": "Bases/Colaboradores.base",
+                "viewName": "View"
+              },
+              "icon": "lucide-layout-grid",
+              "title": "Colaboradores"
             }
           }
         ]
@@ -136,13 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Bases/Colaboradores.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Colaboradores"
             }
           },
           {
@@ -156,11 +159,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 368.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,10 +177,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6632dd7b6422698a",
+  "active": "9dfb378383eba52b",
   "lastOpenFiles": [
-    "Colaboradores/Onboarding Equipe.md",
+    "Banco de Dados/DB - IndustriATTO.md",
+    "Bases/Colaboradores.base",
+    "Templates/Equipes.md",
+    "Bases/Untitled.base",
+    "Colaboradores/Colaboradores/Aldair.md",
     "Colaboradores/Colaboradores/Eliel Matos.md",
+    "Colaboradores/Colaboradores/Untitled.md",
+    "Untitled.md",
+    "Bases",
+    "Colaboradores/Onboarding Equipe.md",
     "Colaboradores/Imagens/eliel.png",
     "Templates/Workshops.md",
     "Templates/Tecnologias.md",
@@ -185,13 +196,11 @@
     "Templates/Regras de Negocio.md",
     "Templates/Projetos.md",
     "Templates/Padrão de Projeto.md",
-    "Templates/Equipes.md",
     "Templates/Colaboradores.md",
     "Templates/Banco de Dados.md",
     "Templates/Artigos.md",
     "Tecnologias/NestJS.md",
     "Tecnologias/React.md",
-    "Colaboradores/Colaboradores/Aldair.md",
     "Colaboradores/Equipes/Desenvolvimento.md",
     "Colaboradores/Cargos/Cargos.md",
     "Colaboradores/Cargos/Untitled",
@@ -204,16 +213,11 @@
     "Nome da Equipe.md",
     "Pasted image 20250827165044.png",
     "Pasted image 20250827165038.png",
-    "Colaborador Modelo.md",
-    "Projetos/IndustriATTO/IndustriATTO.md",
     "Tecnologias",
     "Reuniões",
     "Projetos/Portal Vendas/Modulos/Reserva de Lotes",
     "Projetos/Portal Vendas/Modulos",
     "Padrões de Projeto",
-    "Banco de Dados",
-    "Untitled.canvas",
-    "Workshops",
-    "Colaboradores/Equipes"
+    "Untitled.canvas"
   ]
 }

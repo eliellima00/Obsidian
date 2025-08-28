@@ -1,0 +1,7 @@
+filters:
+  and:
+    - file.folder == "Colaboradores/Colaboradores"
+views:
+  - type: cards
+    name: View
+    image: note.imagem
