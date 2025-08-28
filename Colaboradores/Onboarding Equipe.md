@@ -1,7 +1,4 @@
-
 ```dataviewjs
-const pages = dv.pages('"Colaboradores/Colaboradores"')
-
-console.log(pages)
-
+const colaboradores = dv.pages('"Colaboradores"')
+console.l
 ```
