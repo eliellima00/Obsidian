@@ -1,0 +1,7 @@
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - file.inFolder("Projetos")
+        - is_indice == true

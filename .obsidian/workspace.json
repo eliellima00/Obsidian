@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3ae1260962feb970",
+        "id": "49bec1ef3e3b4d37",
         "type": "tabs",
         "children": [
           {
-            "id": "9dfb378383eba52b",
+            "id": "5c343b744ee30342",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Bases/Colaboradores.base",
-                "viewName": "View"
+                "file": "Artigos/Como configurar o Obsidian com Github.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-grid",
-              "title": "Colaboradores"
+              "icon": "lucide-file",
+              "title": "Como configurar o Obsidian com Github"
             }
           }
         ]
@@ -177,24 +178,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9dfb378383eba52b",
+  "active": "5c343b744ee30342",
   "lastOpenFiles": [
-    "Banco de Dados/DB - IndustriATTO.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Bases/Projetos.base",
     "Bases/Colaboradores.base",
+    "Projetos/Projetos.md",
+    "Projetos/Portal Vendas/Portal Vendas.md",
+    "Projetos/IndustriATTO/IndustriATTO.md",
+    "Projetos/Embarque/Painel de Embarque.md",
+    "Colaboradores/Cargos.md",
+    "Colaboradores/Onboarding Equipe.md",
+    "Banco de Dados/DB - IndustriATTO.md",
+    "Projetos/IndustriATTO/Glossário",
+    "Projetos/Embarque/Glossário",
+    "Projetos/Embarque",
+    "Templates/Projetos.md",
+    "Teste.md",
     "Templates/Equipes.md",
-    "Bases/Untitled.base",
     "Colaboradores/Colaboradores/Aldair.md",
     "Colaboradores/Colaboradores/Eliel Matos.md",
     "Colaboradores/Colaboradores/Untitled.md",
-    "Untitled.md",
     "Bases",
-    "Colaboradores/Onboarding Equipe.md",
     "Colaboradores/Imagens/eliel.png",
     "Templates/Workshops.md",
     "Templates/Tecnologias.md",
     "Templates/Reuniões.md",
     "Templates/Regras de Negocio.md",
-    "Templates/Projetos.md",
     "Templates/Padrão de Projeto.md",
     "Templates/Colaboradores.md",
     "Templates/Banco de Dados.md",
@@ -202,22 +213,12 @@
     "Tecnologias/NestJS.md",
     "Tecnologias/React.md",
     "Colaboradores/Equipes/Desenvolvimento.md",
-    "Colaboradores/Cargos/Cargos.md",
     "Colaboradores/Cargos/Untitled",
-    "Colaboradores/Cargos/Desenvolvedor Web & Mobile.md",
-    "Colaboradores/Cargos/Arquiteto de Sofware.md",
-    "Colaboradores/Cargos/Analista de Qualidade de Sofware.md",
-    "Colaboradores/Cargos/Gerente de Desenvolvimento de Sofware.md",
-    "Colaboradores/Cargos/Coordenador de Desenvolvimento.md",
     "Colaboradores/Cargos",
-    "Nome da Equipe.md",
     "Pasted image 20250827165044.png",
     "Pasted image 20250827165038.png",
     "Tecnologias",
     "Reuniões",
-    "Projetos/Portal Vendas/Modulos/Reserva de Lotes",
-    "Projetos/Portal Vendas/Modulos",
-    "Padrões de Projeto",
     "Untitled.canvas"
   ]
 }

@@ -10,6 +10,9 @@
     "membros": "multitext",
     "aplicado_em": "multitext",
     "regras_negocio": "multitext",
-    "projetos_relacionados": "multitext"
+    "projetos_relacionados": "multitext",
+    "tipo": "text",
+    "indice": "text",
+    "is_indice": "checkbox"
   }
 }

@@ -3,6 +3,7 @@ nome: IndustriATTO
 descricao: Sistema Operacional da Industria
 status: Em andamento
 modulos: "[]"
+is_indice: true
 ---
 # IndustriATTO
 

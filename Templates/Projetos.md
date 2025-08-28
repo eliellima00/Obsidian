@@ -3,6 +3,7 @@ nome: "{{title}}"
 descricao:
 status: "[]"
 modulos: "[]"
+tipo:
 ---
 # {{title}}
 
