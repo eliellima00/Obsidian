@@ -1,8 +1,7 @@
 ---
 nome: "{{title}}"
-tipo: 
+tipo:
 relacionado: "[]"
-"tags:": "[banco]"
 ---
 # {{title}}
 

@@ -1,9 +1,8 @@
 ---
 titulo: "{{title}}"
-palestrante: 
+palestrante:
 data: "{{date}}"
 projetos_relacionados: "[]"
-"tags:": "[workshop]"
 ---
 # {{title}}
 

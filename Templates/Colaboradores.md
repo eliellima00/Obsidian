@@ -1,9 +1,9 @@
 ---
 nome: "{{title}}"
-equipe: 
+equipe:
 projetos: "[]"
 tecnologias: "[]"
-foto:
+imagem:
 ---
 # {{title}}
 

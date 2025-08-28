@@ -1,8 +1,8 @@
 ---
 nome: "{{title}}"
-descricao: 
+descricao:
 status: "[]"
-regras: "[]"
+modulos: "[]"
 ---
 # {{title}}
 

@@ -2,7 +2,6 @@
 titulo: "{{title}}"
 data: "{{date}}"
 participantes: "[]"
-"tags:": "[reuniao]"
 ---
 # {{title}} - {{date}}
 

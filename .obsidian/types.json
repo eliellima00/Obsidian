@@ -1,0 +1,15 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "tecnologias": "multitext",
+    "tags:": "multitext",
+    "relacionado": "multitext",
+    "projetos": "multitext",
+    "membros": "multitext",
+    "aplicado_em": "multitext",
+    "regras_negocio": "multitext",
+    "projetos_relacionados": "multitext"
+  }
+}

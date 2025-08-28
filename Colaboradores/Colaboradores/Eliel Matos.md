@@ -2,7 +2,8 @@
 nome: Eliel Matos
 equipe: "[[Desenvolvimento]]"
 projetos: "[[IndustriATTO]]"
-tecnologias: "[[React]]"
+tecnologias:
+  - "[[React]]"
 imagem: Imagens/eliel.png
 ---
 # Eliel Matos

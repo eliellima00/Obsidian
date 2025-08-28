@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b6eedd2bbce7dc85",
+        "id": "c07f405c9033b406",
         "type": "tabs",
         "children": [
           {
-            "id": "ef24bd5ade549e22",
+            "id": "6632dd7b6422698a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Colaboradores/Onboarding Equipe.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Onboarding Equipe"
+              "title": "New tab"
             }
           }
         ]
@@ -178,11 +174,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ef24bd5ade549e22",
+  "active": "6632dd7b6422698a",
   "lastOpenFiles": [
-    "Colaboradores/Imagens/eliel.png",
     "Colaboradores/Onboarding Equipe.md",
     "Colaboradores/Colaboradores/Eliel Matos.md",
+    "Colaboradores/Imagens/eliel.png",
+    "Templates/Workshops.md",
+    "Templates/Tecnologias.md",
+    "Templates/Reuniões.md",
+    "Templates/Regras de Negocio.md",
+    "Templates/Projetos.md",
+    "Templates/Padrão de Projeto.md",
+    "Templates/Equipes.md",
+    "Templates/Colaboradores.md",
+    "Templates/Banco de Dados.md",
+    "Templates/Artigos.md",
+    "Tecnologias/NestJS.md",
+    "Tecnologias/React.md",
     "Colaboradores/Colaboradores/Aldair.md",
     "Colaboradores/Equipes/Desenvolvimento.md",
     "Colaboradores/Cargos/Cargos.md",
@@ -198,24 +206,12 @@
     "Pasted image 20250827165038.png",
     "Colaborador Modelo.md",
     "Projetos/IndustriATTO/IndustriATTO.md",
-    "Banco de Dados/DB - IndustriATTO.md",
-    "Templates/Colaboradores.md",
-    "Tecnologias/React.md",
     "Tecnologias",
-    "Reuniões/Embalagens Que não permitem Reensacar.md",
     "Reuniões",
-    "Projetos/Portal Vendas/Modulos/Reserva de Lotes/Reserva de Lotes.md",
     "Projetos/Portal Vendas/Modulos/Reserva de Lotes",
     "Projetos/Portal Vendas/Modulos",
-    "Padrões de Projeto/Untitled.md",
     "Padrões de Projeto",
     "Banco de Dados",
-    "Templates/Equipes.md",
-    "Templates/Padrão de Projeto.md",
-    "Templates/Projetos.md",
-    "Templates/Regras de Negocio.md",
-    "Projetos/Portal Vendas/Portal Vendas.md",
-    "Projetos/IndustriATTO/Modulos/Lotes/Lotes.md",
     "Untitled.canvas",
     "Workshops",
     "Colaboradores/Equipes"

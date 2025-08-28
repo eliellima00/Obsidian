@@ -1,8 +1,7 @@
 ---
 nome: "{{title}}"
-tipo: 
+tipo:
 aplicado_em: "[]"
-"tags:": "[padrao]"
 ---
 # {{title}}
 
