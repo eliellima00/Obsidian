@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projetos/IndustriATTO/IndustriATTO.md",
-                "mode": "source",
+                "file": "Projetos/Projetos.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IndustriATTO"
+              "title": "Projetos"
             }
           }
         ]
@@ -178,13 +178,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6db107ac4be45e70",
+  "active": "ef4d46c290e93e75",
   "lastOpenFiles": [
-    "Bases/Projetos.base",
-    "Projetos/Portal Vendas/Portal Vendas.md",
-    "Projetos/IndustriATTO/IndustriATTO.md",
-    "Projetos/Projetos.md",
+    "Assets",
     "Projetos/Embarque/Painel de Embarque.md",
+    "Projetos/Projetos.md",
+    "Projetos/Portal Vendas/Modulos/Reserva de Lotes/Reserva de Lotes.md",
+    "Projetos/Portal Vendas/Portal Vendas.md",
+    "Templates/Projetos.md",
+    "Templates/Padrão de Projeto.md",
+    "Templates/Regras de Negocio.md",
+    "Templates/Workshops.md",
+    "Templates/Tecnologias.md",
+    "Templates/Reuniões.md",
+    "Templates/Equipes.md",
+    "Templates/Colaboradores.md",
+    "Templates/Banco de Dados.md",
+    "Templates/Artigos.md",
+    "Projetos/IndustriATTO/IndustriATTO.md",
+    "Bases/Projetos.base",
     "Tecnologias/React.md",
     "Projetos/Embarque/Módulos",
     "Tecnologias/NestJS.md",
@@ -198,22 +210,11 @@
     "Untitled.md",
     "Padrões de Projeto/Untitled.md",
     "Untitled 1.md",
-    "Colaboradores/Cargos.md",
-    "Colaboradores/Onboarding Equipe.md",
-    "Banco de Dados/DB - IndustriATTO.md",
     "Projetos/IndustriATTO/Glossário",
     "Projetos/Embarque/Glossário",
     "Projetos/Embarque",
-    "Templates/Projetos.md",
-    "Teste.md",
-    "Templates/Equipes.md",
-    "Colaboradores/Colaboradores/Aldair.md",
-    "Colaboradores/Colaboradores/Eliel Matos.md",
-    "Colaboradores/Colaboradores/Untitled.md",
     "Bases",
-    "Colaboradores/Imagens/eliel.png",
-    "Templates/Workshops.md",
-    "Templates/Tecnologias.md",
+    "Assets/eliel.png",
     "Colaboradores/Cargos/Untitled",
     "Colaboradores/Cargos",
     "Pasted image 20250827165044.png",
