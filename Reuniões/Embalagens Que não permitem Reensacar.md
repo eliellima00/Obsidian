@@ -4,14 +4,15 @@ data: "2025-08-26"
 participantes: "[]"
 "tags:": "[reuniao]"
 ---
-# Untitled - 2025-08-26
+# Embalagens Que não permitem Reensacar - 2025-08-26
 
 ## Participantes
-
+- [[Eliel Matos]]
+- [[Aldair]]
 ## Pauta
 
 ## Decisões
 
 ## Ações
-- [] Tarefa 1
-- [] Tarefa 2
+- [ ] Tarefa 1
+- [ ] Tarefa 2

@@ -11,13 +11,14 @@
             "id": "6db107ac4be45e70",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Bases/Projetos.base",
-                "viewName": "Table"
+                "file": "Projetos/IndustriATTO/IndustriATTO.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-grid",
-              "title": "Projetos"
+              "icon": "lucide-file",
+              "title": "IndustriATTO"
             }
           }
         ]
@@ -179,20 +180,24 @@
   },
   "active": "6db107ac4be45e70",
   "lastOpenFiles": [
-    "Bases/Colaboradores.base",
+    "Bases/Projetos.base",
+    "Projetos/Portal Vendas/Portal Vendas.md",
+    "Projetos/IndustriATTO/IndustriATTO.md",
+    "Projetos/Projetos.md",
+    "Projetos/Embarque/Painel de Embarque.md",
+    "Tecnologias/React.md",
+    "Projetos/Embarque/Módulos",
+    "Tecnologias/NestJS.md",
+    "Reuniões/Embalagens Que não permitem Reensacar.md",
     "Rascunhos/Processo de Documentação do Embarque de Sementes.md",
+    "Bases/Colaboradores.base",
     "Rascunhos",
     "Projetos/IndustriATTO/Modulos/Ordens de Serviço/Ordens  de Serviço.md",
     "Projetos/IndustriATTO/Modulos/Lotes/Lotes.md",
-    "Projetos/IndustriATTO/IndustriATTO.md",
-    "Bases/Projetos.base",
     "Artigos/Como configurar o Obsidian com Github.md",
     "Untitled.md",
     "Padrões de Projeto/Untitled.md",
     "Untitled 1.md",
-    "Projetos/Projetos.md",
-    "Projetos/Portal Vendas/Portal Vendas.md",
-    "Projetos/Embarque/Painel de Embarque.md",
     "Colaboradores/Cargos.md",
     "Colaboradores/Onboarding Equipe.md",
     "Banco de Dados/DB - IndustriATTO.md",
@@ -209,14 +214,10 @@
     "Colaboradores/Imagens/eliel.png",
     "Templates/Workshops.md",
     "Templates/Tecnologias.md",
-    "Templates/Reuniões.md",
-    "Templates/Regras de Negocio.md",
-    "Templates/Padrão de Projeto.md",
     "Colaboradores/Cargos/Untitled",
     "Colaboradores/Cargos",
     "Pasted image 20250827165044.png",
     "Pasted image 20250827165038.png",
-    "Tecnologias",
     "Untitled.canvas"
   ]
 }

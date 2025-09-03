@@ -45,7 +45,7 @@ O processo de entrega de documentos padrão envolve a geração e distribuição
 
 ### Quando é realizado?
 - **Notas Padrão**: Enviadas diretamente à revenda.
-- **Notas Triangulares**: Uma nota espelho é gerada e enviada ao cliente final. Essa nota espelho é armazenada em um diretório específico para operações triangulares.
+- **Notas Triangulares**: Uma nota espelho é gerada com base na nota que a revenda emite, a ATTO Emite novamente a nota e enviada ao cliente final. Essa nota espelho é armazenada em um diretório específico para operações triangulares.
 
 ### Quais documentos estão incluídos na impressão de notas triangulares?
 - **Apenas a Nota Espelho**: Enviada ao cliente final.
