@@ -1,6 +1,6 @@
 {
-  "collapse-filter": false,
-  "search": "Indus",
+  "collapse-filter": true,
+  "search": "Eliel",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.4019828977761084,
-  "close": true
+  "scale": 1.0000000000000075,
+  "close": false
 }

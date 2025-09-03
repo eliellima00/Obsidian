@@ -4,21 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "f9def5def9e04967",
+        "id": "7ae6c3d08c0c76cc",
         "type": "tabs",
         "children": [
           {
-            "id": "a716e64e8cddc798",
+            "id": "6db107ac4be45e70",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "Rascunhos/Processo de Documentação do Embarque de Sementes.md",
-                "mode": "source",
-                "source": false
+                "file": "Bases/Projetos.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Processo de Documentação do Embarque de Sementes"
+              "icon": "lucide-layout-grid",
+              "title": "Projetos"
             }
           }
         ]
@@ -178,15 +177,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a716e64e8cddc798",
+  "active": "6db107ac4be45e70",
   "lastOpenFiles": [
+    "Bases/Colaboradores.base",
     "Rascunhos/Processo de Documentação do Embarque de Sementes.md",
     "Rascunhos",
     "Projetos/IndustriATTO/Modulos/Ordens de Serviço/Ordens  de Serviço.md",
     "Projetos/IndustriATTO/Modulos/Lotes/Lotes.md",
     "Projetos/IndustriATTO/IndustriATTO.md",
     "Bases/Projetos.base",
-    "Bases/Colaboradores.base",
     "Artigos/Como configurar o Obsidian com Github.md",
     "Untitled.md",
     "Padrões de Projeto/Untitled.md",
@@ -213,7 +212,6 @@
     "Templates/Reuniões.md",
     "Templates/Regras de Negocio.md",
     "Templates/Padrão de Projeto.md",
-    "Templates/Colaboradores.md",
     "Colaboradores/Cargos/Untitled",
     "Colaboradores/Cargos",
     "Pasted image 20250827165044.png",
