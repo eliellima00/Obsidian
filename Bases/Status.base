@@ -1,0 +1,6 @@
+filters:
+  and:
+    - file.folder == "Utilitários/Status"
+views:
+  - type: table
+    name: Table

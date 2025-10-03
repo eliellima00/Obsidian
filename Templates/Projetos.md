@@ -1,9 +1,10 @@
 ---
 nome: "{{title}}"
-descricao:
+descricao: Breve Resumo do Projeto
 status: "[]"
 modulos: "[]"
 tipo:
+is_indice: false
 ---
 # {{title}}
 

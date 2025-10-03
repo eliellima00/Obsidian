@@ -8,3 +8,5 @@ CTRL + TAB : Mover entre os paineis
 # Novos Atalhos
 
 CTRL + T : Inserir Templates
+
+# Como mudar de um github pra outro?

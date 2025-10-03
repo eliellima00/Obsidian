@@ -1,10 +1,11 @@
 ---
-nome: Eliel Matos
-equipe: "[[Desenvolvimento]]"
-projetos: "[[IndustriATTO]]"
-tecnologias:
+Nome: Eliel Matos
+Equipe: "[[Desenvolvimento]]"
+Projetos: "[[IndustriATTO]]"
+Tecnologias:
   - "[[React]]"
-imagem: Imagens/eliel.png
+  - "[[NestJS]]"
+Imagem: Imagens/eliel.png
 ---
 # Eliel Matos
 

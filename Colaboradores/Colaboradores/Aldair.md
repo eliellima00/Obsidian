@@ -4,20 +4,8 @@ equipe: "[[Desenvolvimento]]"
 projetos: "[]"
 tecnologias: "[]"
 imagem: Imagens/eliel.png
-cargo:
+cargo: "[[Coordenador de Desenvolvimento de Sofware]]"
 ---
-# Eliel Matos
-
-
-
-## Equipe
-[[Nome da Equipe]]
-
-## Projetos
-- [[Nome Do Projeto]]
-
-## Tecnologias
-- [[Tecnologia Modelo]]
 
 ## Contato
 - Email:

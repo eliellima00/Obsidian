@@ -4,4 +4,10 @@ filters:
 views:
   - type: cards
     name: View
+    order:
+      - file.name
+      - cargo
+      - equipe
+      - projetos
+      - tecnologias
     image: note.imagem
